@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chatbot Web Application
 
 ## Project Overview
@@ -205,3 +206,6 @@ http://127.0.0.1:8000
 ## Conclusion
 
 This project demonstrates the development of a full-stack AI chatbot application using FastAPI, SQLite, HTML, CSS, and JavaScript. The chatbot supports conversation management, persistent chat history, and AI-powered responses through the Google Gemini API. The application follows a clean frontend-backend architecture and provides an interactive user experience.
+=======
+# CHATBOT
+>>>>>>> 72307a1ad8318c76672efb0a503aa0ca5061c5b4
