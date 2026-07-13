@@ -7,11 +7,8 @@
     --chat-item-active: #df49e4; /* Vibrant magenta active state matched to your sample image */
     --chat-item-active-text: #ffffff;
     --user-bubble: #f6b6ff;      /* Dedicated signature user text bubble color */
-    --ai-bubble: #ffffff;        /* AIHere is your complete `style.css` file with all the Telugu comments cleaned up and replaced entirely with professional English.
-
-### 📄 `frontend/style.css` (Full Complete Code)
-
-```css
+    --ai-bubble: #ffffff;        
+     }
 :root {
     --bg-main: #fff0f5;          /* Light soft pink workspace background */
     --bg-sidebar: #fbe4ff;       /* Soft lavender-pink sidebar panel */
